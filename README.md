@@ -1,4 +1,4 @@
-# Coding Club Loops and functions tutorial materials
+# Coding Club INLA tutorial materials
 
 #### Here you can find the data necessary to complete the online tutorial available here https://ourcodingclub.github.io/2018/12/04/inla.html
 
